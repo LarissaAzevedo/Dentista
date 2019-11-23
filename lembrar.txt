@@ -1,0 +1,11 @@
+1 - criação da estrutura html (todas as sections são importantes para distribuir as partials)
+
+2 - criação do main.scss (partials)
+
+3 - nele, linkar os partials necessários na ordem hierárquica dos elementos (imports)
+
+4 - Mobile First (css)
+
+5 - Após finalizar a parte mobile, usar para ajustar para desktop (mixins e extends)
+
+6 - Functions
